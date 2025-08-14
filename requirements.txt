@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+openai
+tiktoken
+python-dotenv
+requests
+beautifulsoup4
+PyGithub
+chromadb
+sentence-transformers
+pydantic
+rank-bm25
